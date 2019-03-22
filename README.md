@@ -1,5 +1,5 @@
 # 10-NycFlights
-##Modelization, Creation, Reporting, R data-frame extraction / NYCflights13 DB  (from R4ds Hadley Wickham)
+#Modelization, Creation, Reporting, R data-frame extraction / NYCflights13 DB  (from R4ds Hadley Wickham)
 
 The purpose of this project is to create a data base from the data-frames contained in package nycflights13.
 The software used are : RStudio (V 1.2.1280) + MySQL 8.0 
