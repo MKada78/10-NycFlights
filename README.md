@@ -2,7 +2,7 @@
 #Modelization, Creation, Reporting, R data-frame extraction / NYCflights13 DB  (from R4ds Hadley Wickham)
 
 The purpose of this project is to create a data base from the data-frames contained in package nycflights13.
-The software used are : R language statistics + MySQL 8.0 
+The software used are : R statistical software + MySQL 8.0 
 The following steps have been followed :
   1- Load package nycflights in R.
   2- Extract the CSV files from the data-frames.
